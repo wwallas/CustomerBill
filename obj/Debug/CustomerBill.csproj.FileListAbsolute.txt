@@ -1,0 +1,13 @@
+D:\TechCarrier\c#\Projects\CustomerBill\bin\Debug\CustomerBill.exe.config
+D:\TechCarrier\c#\Projects\CustomerBill\bin\Debug\CustomerBill.exe
+D:\TechCarrier\c#\Projects\CustomerBill\bin\Debug\CustomerBill.pdb
+D:\TechCarrier\c#\Projects\CustomerBill\obj\Debug\CustomerBill.csprojAssemblyReference.cache
+D:\TechCarrier\c#\Projects\CustomerBill\obj\Debug\CustomerBill.FrmCustBill.resources
+D:\TechCarrier\c#\Projects\CustomerBill\obj\Debug\CustomerBill.Properties.Resources.resources
+D:\TechCarrier\c#\Projects\CustomerBill\obj\Debug\CustomerBill.csproj.GenerateResource.cache
+D:\TechCarrier\c#\Projects\CustomerBill\obj\Debug\CustomerBill.exe
+D:\TechCarrier\c#\Projects\CustomerBill\obj\Debug\CustomerBill.pdb
+D:\TechCarrier\c#\Projects\CustomerBill\bin\Debug\CustomerData.dll
+D:\TechCarrier\c#\Projects\CustomerBill\bin\Debug\CustomerData.pdb
+D:\TechCarrier\c#\Projects\CustomerBill\obj\Debug\CustomerBill.csproj.CopyComplete
+D:\TechCarrier\c#\Projects\CustomerBill\obj\Debug\AddComputerDialogTest.AddComputerProductDialog.resources
